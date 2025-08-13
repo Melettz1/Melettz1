@@ -4,6 +4,11 @@
 📚 Experiência com **HTML**, **CSS** , **JavaScript**  e **Python**
 📍 Rio de Janeiro, Brasil |  
 
+💻 Programming student passionate about technology
+🚀 Currently learning **Java**
+📚 Experience with **HTML**, **CSS**, **JavaScript**, and **Python**
+📍 Rio de Janeiro, Brazil |
+
 ---
 
 ## 🌐 Conecte-se comigo | Connect with me
