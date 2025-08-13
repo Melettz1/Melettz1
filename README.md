@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Pedro Meletti | Hi, I'm Pedro Meletti  
 💻 Estudante de programação apaixonado por tecnologia  
 🚀 Atualmente aprendendo **Java**   
-📚 Experiência com **HTML**, **CSS** , **JavaScript**  e **Python**
+📚 Experiência com **HTML**, **CSS** , **JavaScript**  e **Python**<br>
 📍 Rio de Janeiro, Brasil |  
 
-💻 Programming student passionate about technology
-🚀 Currently learning **Java**
-📚 Experience with **HTML**, **CSS**, **JavaScript**, and **Python**
+💻 Programming student passionate about technology <br>
+🚀 Currently learning **Java**<br>
+📚 Experience with **HTML**, **CSS**, **JavaScript**, and **Python**<br>
 📍 Rio de Janeiro, Brazil |
 
 ---
