@@ -14,7 +14,7 @@
 ## 🌐 Conecte-se comigo | Connect with me
 [![Email](https://img.shields.io/badge/Email-pedromeletti8%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromeletti8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Melettz1-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melettz1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Meletti-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Meletti-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-meletti-b57227209/)
 
 ---
 
