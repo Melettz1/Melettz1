@@ -50,7 +50,7 @@
 ---
 
 ## 🚀 Portfólio | Portfolio
-📂 Confira meus projetos: **[Clique aqui](https://portifolio-final-lake.vercel.app/)**  
+📂 Confira meus projetos: **[Clique aqui](https://pedro-dev-nine.vercel.app/)**  
 
 ---
 
