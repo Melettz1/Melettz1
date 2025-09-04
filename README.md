@@ -1,6 +1,8 @@
-
-<h1 align="center">🚀 Bem-vindo ao meu GitHub 🚀</h1>
-<h2 align="center">👋 Olá, eu sou o Pedro Meletti | Hi, I'm Pedro Meletti</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Olá,+sou+Pedro+Meletti;💻+Desenvolvedor+Fullstack;🚀+Apaixonado+por+tecnologia,+educação+e+músico;✨+Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   💻 Estudante de programação apaixonado por <b>tecnologia</b> e <b>desenvolvimento de software</b> <br>
