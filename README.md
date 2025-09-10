@@ -92,14 +92,14 @@ I’m passionate about building creative and practical solutions, while explorin
 I enjoy challenges that push me out of my comfort zone, believe in the power of continuous learning, and see every project as an opportunity to grow.  
 
   </td>
-  <td width="30%" align="center">
-    <img src="https://i.ibb.co/VNVPDX9/image.png" width="120" style="border-radius: 50%;" />
-  </td>
+ <td width="60%" align="center">
+  <img src="https://raw.githubusercontent.com/Melettz1/Melettz1/main/perfil.png" width="800"  />
+</td>
+
   </tr>
 </table>
 
 
+
 ---
 
-<h3 align="center">✨ "Cada bug é apenas um próximo passo rumo a um código melhor." ✨</h3>
-<h3 align="center">✨ "Every bug is just the next step toward better code." ✨</h3>
