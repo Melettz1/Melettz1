@@ -77,9 +77,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Melettz1&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
 ## 📜 Sobre mim | About me  
+
+<table>
+  <tr>
+    <td width="70%">
+      
 🇧🇷 Sou um estudante dedicado de programação, atualmente focado em **Java**, mas com uma base sólida em **Python**, **JavaScript**, **HTML** e **CSS**.  
 Tenho interesse em criar soluções criativas e práticas, explorando diferentes tecnologias para me tornar um desenvolvedor versátil.  
 Adoro desafios que me tiram da zona de conforto, acredito no poder do aprendizado contínuo e encaro cada projeto como uma oportunidade de evoluir.  
@@ -87,6 +90,14 @@ Adoro desafios que me tiram da zona de conforto, acredito no poder do aprendizad
 🇺🇸 I’m a dedicated programming student, currently focused on **Java**, with a solid foundation in **Python**, **JavaScript**, **HTML**, and **CSS**.  
 I’m passionate about building creative and practical solutions, while exploring different technologies to become a versatile developer.  
 I enjoy challenges that push me out of my comfort zone, believe in the power of continuous learning, and see every project as an opportunity to grow.  
+
+  </td>
+  <td width="30%" align="center">
+    <img src="https://i.ibb.co/VNVPDX9/image.png" width="120" style="border-radius: 50%;" />
+  </td>
+  </tr>
+</table>
+
 
 ---
 
